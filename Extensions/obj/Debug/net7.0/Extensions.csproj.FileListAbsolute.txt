@@ -1,0 +1,12 @@
+/home/mohammad/Desktop/Bulk-ReadFromExcel-DAPPER/Extensions/bin/Debug/net7.0/Extensions.deps.json
+/home/mohammad/Desktop/Bulk-ReadFromExcel-DAPPER/Extensions/bin/Debug/net7.0/Extensions.dll
+/home/mohammad/Desktop/Bulk-ReadFromExcel-DAPPER/Extensions/bin/Debug/net7.0/Extensions.pdb
+/home/mohammad/Desktop/Bulk-ReadFromExcel-DAPPER/Extensions/obj/Debug/net7.0/Extensions.csproj.AssemblyReference.cache
+/home/mohammad/Desktop/Bulk-ReadFromExcel-DAPPER/Extensions/obj/Debug/net7.0/Extensions.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohammad/Desktop/Bulk-ReadFromExcel-DAPPER/Extensions/obj/Debug/net7.0/Extensions.AssemblyInfoInputs.cache
+/home/mohammad/Desktop/Bulk-ReadFromExcel-DAPPER/Extensions/obj/Debug/net7.0/Extensions.AssemblyInfo.cs
+/home/mohammad/Desktop/Bulk-ReadFromExcel-DAPPER/Extensions/obj/Debug/net7.0/Extensions.csproj.CoreCompileInputs.cache
+/home/mohammad/Desktop/Bulk-ReadFromExcel-DAPPER/Extensions/obj/Debug/net7.0/Extensions.dll
+/home/mohammad/Desktop/Bulk-ReadFromExcel-DAPPER/Extensions/obj/Debug/net7.0/refint/Extensions.dll
+/home/mohammad/Desktop/Bulk-ReadFromExcel-DAPPER/Extensions/obj/Debug/net7.0/Extensions.pdb
+/home/mohammad/Desktop/Bulk-ReadFromExcel-DAPPER/Extensions/obj/Debug/net7.0/ref/Extensions.dll
